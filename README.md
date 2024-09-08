@@ -1,4 +1,5 @@
 ## CinemaWiki: Seu Guia Pessoal de Filmes e Séries 
+## Projecto feito após aulas da Imersão Dev com o Google Gemini
 
 **O que é o CinemaWiki?**
 
@@ -35,12 +36,12 @@ Adoraria ver mais gente contribuindo para o CinemaWiki! Você pode:
 * **Base de dados simples:** Por enquanto, a base de dados é um arquivo JavaScript (`dados.js`) com uma lista de filmes e séries. No futuro, podemos usar um banco de dados mais robusto.
 * **Busca simples:** A busca é feita por palavras-chave, então você pode pesquisar por partes do título ou por palavras-chave na descrição.
 
-**Vamos juntos construir o maior guia de filmes e séries da galáxia! **
+**Vamos juntos construir o maior guia de filmes e séries da galáxia!**
 
 **#CinemaWiki #HTML #CSS #JavaScript #desenvolvimentoweb**
 
 **[Carlos Martins]**
 
-**[https://github.com/c4rlosm4rtins]**
+**https://github.com/c4rlosm4rtins**
 
 **[07.08.2024]**
